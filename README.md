@@ -1,7 +1,7 @@
 # Shadow Analysis Project for Smart Construction Lab
 
 ## Overview
-The Shadow Analysis project is part of the Smart Construction Smart City & Smart Building Research Lab evaluation. It focuses on performing shadow analysis using a Python application, containerized for AWS deployment, and integrates data storage in MongoDB.
+The Shadow Analysis project is part of the Smart Construction Smart City & Smart Building Research Lab evaluation at Texas A&M University. It focuses on performing shadow analysis using a Python application, containerized for AWS deployment, and integrates data storage in MongoDB.
 
 ## Components
 
