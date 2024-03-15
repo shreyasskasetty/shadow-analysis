@@ -11,7 +11,7 @@ The Shadow Analysis repository is a Python-based application designed to perform
 - **Flask**: A micro web framework written in Python, possibly used for the API.
 - **Gunicorn**: A Python WSGI HTTP Server for UNIX, used in conjunction with Flask.
 - **Pip**: A package installer for Python, used to manage software packages.
-- **AWS (Amazon Web Services)**: Cloud computing platform used for hosting services and potentially for other cloud-based functionalities. (Specify the AWS services used, such as EC2 for hosting, S3 for storage, etc.)
+- **AWS (Amazon Web Services)**: Cloud computing platform used for hosting services and cloud-based functionalities. (AWS services used are EC2 for hosting, S3 for storage, etc.)
 
 ## Repository Contents
 
